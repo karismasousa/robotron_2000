@@ -1,2 +1,1 @@
-# robotron_2000
-Projeto utilizando JS.
+# robotron-2000
