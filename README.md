@@ -1,7 +1,7 @@
 <h1 text-align=center>Robotron 2000</h1>
 
 ## Descrição do Projeto
-Projeto desenvolvido durante o curso "JavaScript: manipulando o DOM" da Alura, que consiste na criação de uma interface para produção de robôs do tipo Robotron 2000. Para isso, foram aplicados conhecimentos como:
+Projeto desenvolvido durante o curso "JavaScript: manipulando o DOM" da Alura, que consiste na criação de uma interface para produção de robôs do tipo Robotron 2000.
 
 ## Status do Projeto
 > ✅ Finalizado
