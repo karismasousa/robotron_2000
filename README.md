@@ -7,14 +7,14 @@ Projeto desenvolvido durante o curso "JavaScript: manipulando o DOM" da Alura, q
 > ✅ Finalizado
 
 ## 🛠️ Funcionalidades e Demonstração da Aplicação
-manipulação de DOM
-querySelector()
-arrow functions
-objetos
-data attributes
-addEventListener
-onclick
-forEach
+- Manipulação de DOM
+- QuerySelector()
+- Arrow functions
+- Objetos
+- Data attributes
+- AddEventListener
+- Onclick
+- ForEach
  
 ## Projeto
 ![robotron](https://github.com/karismasousa/robotron_2000/assets/106543715/8ac22001-aa1b-4e37-b167-9d2f193ef23e)
